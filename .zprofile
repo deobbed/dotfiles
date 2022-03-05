@@ -1,0 +1,1 @@
+/home/deobbed/.config/shell/profile

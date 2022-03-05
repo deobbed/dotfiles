@@ -1,0 +1,1 @@
+/home/deobbed/.config/x11/xinitrc
