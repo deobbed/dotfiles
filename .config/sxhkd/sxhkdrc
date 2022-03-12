@@ -13,4 +13,4 @@ XF86MonBrightness{Up,Down}
 	brightnessctl s {+2%,2%-}
 
 super + Escape
-sudo	system_action
+	system_action
